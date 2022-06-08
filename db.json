@@ -1,0 +1,194 @@
+[
+    {
+    "id":4,
+    "name":"Inception",
+    "length":"2h 28min",
+    "year":"2010",
+    "rated":"PG-13",
+    "ratings":"8.5",
+    "language":"English",
+    "director":"Christopher Nolan",
+    "writer":"Christopher Nolan",
+    "synopsis":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "stars":
+    [
+        {
+            "star_id":"1",
+            "star_name":"Leonardo DiCaprio"
+        },
+        {
+            "star_id":"2",
+            "star_name":"Joseph Gordon-Levitt"
+        },
+            {
+             "star_id":"3",
+            "star_name":"Elliot Page"
+            }
+        ],
+            "genre":
+            [
+                {
+                "genre_id":"1",
+                "category_id":1,
+                "genre_type":"Action"
+                },
+                {
+                "genre_id":"6",
+                "genre_type":"Adventure",
+                "category_id":"6"
+                },
+                {
+                "genre_id":"7",
+                "genre_type":"Sci-fi",
+                "category_id":"7"
+                }
+                ],
+                "image":"https://i.ibb.co/Vq2jJR6/incept.jpg",
+                "cast":[
+                    {
+                    "id":"10",
+                    "name":"Leonardo DiCaprio",
+                    "img":"https://i.ibb.co/3SKtQm6/leo.jpg",
+                    "alias":"as Cobb"
+                    },
+                    {
+                    "id":"11",
+                    "name":"Joseph Gordon-Levitt",
+                    "img":"https://i.ibb.co/yFykGJY/joseph.jpg",
+                    "alias":"as Arthur"
+                    },
+                    {
+                    "id":"12",
+                    "name":"Elliot Page ",
+                    "img":"https://i.ibb.co/k4gX8sP/page.jpg",
+                    "alias":"as Ariadne"
+                    },
+                    {
+                    "id":"13",
+                    "name":"Ken Watanabe",
+                    "img":"https://i.ibb.co/vsWX96B/ken.jpg",
+                    "alias":"as Saito"
+                    },
+                    {
+                    "id":"14",
+                    "name":"Tom Hardy",
+                    "img":"https://i.ibb.co/G2B1Q0t/tom.jpg",
+                    "alias":"as as Eames"
+                    },
+                    {
+                    "id":"15",
+                    "name":"Dileep Rao",
+                    "img":"https://i.ibb.co/rvgMh8M/rao.jpg",
+                    "alias":"as Yusuf"
+                    },
+                    {
+                    "id":"16",
+                    "name":"Cillian Murphy",
+                    "alias":"as Robert Fischer"
+                    },
+                    {
+                    "id":"17",
+                    "name":"Tom Berenger",
+                    "alias":"as Browning"
+                    }
+                    ]
+                },
+
+
+                {
+                    "id":5,
+                    "name":"Interstellar",
+                    "length":"2h 49min",
+                    "year":"2014",
+                    "rated":"PG-13",
+                    "ratings":"8.7",
+                    "language":"English",
+                    "director":"Christopher Nolan",
+                    "writer":"Jonathan Nolan",
+                    "synopsis":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+                    "stars":
+                    [
+                        {
+                            "star_id":"1",
+                            "star_name":"Matthew McConaughey"
+                        },
+                        {
+                            "star_id":"2",
+                            "star_name":"Anne Hathaway"
+                        },
+                            {
+                             "star_id":"3",
+                            "star_name":"Jessica Chastain"
+                            }
+                        ],
+                            "genre":
+                            [
+                                {
+                                "genre_id":"3",
+                                "category_id":3,
+                                "genre_type":"Drama"
+                                },
+                                {
+                                "genre_id":"6",
+                                "genre_type":"Adventure",
+                                "category_id":"6"
+                                },
+                                {
+                                "genre_id":"7",
+                                "genre_type":"Sci-fi",
+                                "category_id":"7"
+                                }
+                                ],
+                                "image":"https://i.ibb.co/hc8YH0D/OIP.jpg",
+                                "cast":[
+                                    {
+                                    "id":"18",
+                                    "name":"Matthew McConaughey",
+                                    "img":"https://i.ibb.co/z5pRwt1/mathew.jpg",
+                                    "alias":"as Brand"
+                                    },
+                                    {
+                                    "id":"19",
+                                    "name":"Anne Hathaway",
+                                    "img":"https://i.ibb.co/JcRTwbP/anne.jpg",
+                                    "alias":"as Murph"
+                                    },
+                                    {
+                                    "id":"20",
+                                    "name":"Jessica Chastain",
+                                    "img":"https://i.ibb.co/mCmXgcT/Jessica.jpg",
+                                    "alias":"as Murph (10 Yrs.)"
+                                    },
+                                    {
+                                    "id":"21",
+                                    "name":"Mackenzie Foy",
+                                    "img":"https://i.ibb.co/1XHfsnF/mackenzie.jpg",
+                                    "alias":"as Murph (Older)"
+                                    },
+                                    {
+                                    "id":"22",
+                                    "name":"Ellen Burstyn",
+                                    "img":"https://i.ibb.co/sP7QxmB/ellen.jpg",
+                                    "alias":"as Donald"
+                                    },
+                                    {
+                                    "id":"23",
+                                    "name":"John Lithgow",
+                                    "img":"https://i.ibb.co/CK5P25R/John.jpg",
+                                    "alias":"as Yusuf"
+                                    },
+                                    {
+                                    "id":"24",
+                                    "name":"Timothée Chalamet",
+                                    "alias":"as Tom (15 Yrs.)"
+                                    },
+                                    {
+                                    "id":"25",
+                                    "name":"David Oyelowo",
+                                    "alias":"as School Principal"
+                                    }
+                                    ]
+                                }
+            
+            
+                        ]

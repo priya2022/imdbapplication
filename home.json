@@ -1,0 +1,30 @@
+{
+    "id":4,
+    "details":"Movies",
+    "name":[
+        {
+            "id":1,
+            "movie":"La La Land",
+            "image":"https://i.ibb.co/DKmyyRb/lala.jpg",
+            "main":"https://i.ibb.co/ryQm12T/lalaland.jpg",
+            "content":"Play official Trailer",
+            "length":"2.04"
+        },
+        {
+            "id":2,
+            "movie":"Inception",
+            "image":"https://i.ibb.co/Vq2jJR6/incept.jpg",
+            "main":"https://i.ibb.co/vkwRpt9/incep.jpg",
+            "content":"Play official Trailer",
+            "length":"2.01"
+        },
+        {
+            "id":3,
+            "movie":"Interstellar",
+            "image":"https://i.ibb.co/hc8YH0D/OIP.jpg",
+            "main":"https://i.ibb.co/99p558c/inter.jpg",
+            "content":"Play official Trailer",
+            "length":"1.04"
+        }
+    ]
+}

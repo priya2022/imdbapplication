@@ -1,0 +1,114 @@
+
+#first{
+    
+    height:100%; 
+    bottom:0;
+    left:0;
+    position: relative;
+    
+}
+.sideimg
+{
+    width:100%;
+    height:20%;
+    margin:0;
+    
+}
+.wishlist{
+    position: absolute;
+    top:0;
+    background:rgba(3, 3, 3, 0.7);
+    font-size:22px;
+    z-index:999;
+    
+    
+}
+.wishlist:hover{
+    color:gold;
+}
+.bi-bookmark-plus
+{
+    font-size:43px;
+    
+}
+.height_specs
+{
+    height:100%;
+}
+.play
+{
+    font-size:80px;
+    color:white;
+}
+.play:hover
+{
+    color:gold;
+}
+#second{
+  
+    height:35%;
+    background:linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.89));
+    margin-top:250px;
+    bottom:0;
+    margin-left:25%;
+    position:absolute;
+ }
+ .font_specs
+{
+    font-size:20px;
+}
+#third
+{   
+    height:35%;
+    margin-top:250px;
+    padding-left:10px;
+    bottom:0;
+   position:absolute;
+   right:0;
+    background:linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.89));
+    
+}
+#title
+{
+    margin-top:2%;
+    color:white;
+}
+#sub_title
+{
+    display:flex;
+    float:left;
+    width:77%;
+    margin-top:15px;
+    color:white;
+}
+#len
+{
+    float:right;
+    margin-top:20px;
+    width:20%; 
+    color:white;
+}
+#img1{
+    background-image: url("https://i.ibb.co/PFkTtBb/lala.png")
+}
+#img2{
+    background-image: url("https://i.ibb.co/dtkRrL3/incep.jpg")
+}
+#img3{
+    background-image: url("https://i.ibb.co/17X8fBK/inter.jpg")
+    
+}
+.overlay-image
+{
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    top:0;
+    background-size: cover !important;
+    background-position:center;
+    
+    
+   
+
+}
